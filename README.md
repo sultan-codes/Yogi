@@ -1,2 +1,3 @@
-# Yogi
-Yoga and Meditation
+# Responsive Yoga & Meditation Website Using HTML CSS & Javascript
+
+
